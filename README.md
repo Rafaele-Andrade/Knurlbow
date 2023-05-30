@@ -13,3 +13,13 @@ What you will need:
 
 
 ![alt text](https://github.com/Rafaele-Andrade/Knurlbow/blob/main/IMG_20230530_115403.jpg)
+
+
+Libraries for your ESP32:
+
+* <WiFi.h>
+* <WiFiUdp.h>
+* <OSCMessage.h>
+* <Adafruit_MPU6050.h>
+* <Adafruit_Sensor.h>
+* <Wire.h>
